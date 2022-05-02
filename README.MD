@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mdvdn8c9vgti04bw?svg=true)](https://ci.appveyor.com/project/vozle/api-ci)
